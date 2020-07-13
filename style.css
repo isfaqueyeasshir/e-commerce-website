@@ -19,3 +19,31 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.cat1, .cat2, .cat3{
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.cat1{
+    background-image: linear-gradient(to left, #FF9C35 0%, #FFD019 100%);
+}
+.cat2{
+    background-image: linear-gradient(to left,#FF589B 0%, #FF136F 100%);
+  
+}
+.cat3{
+    background-image: linear-gradient(to left,#4289FF 0%, #07F8C3 100%);
+   
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+#Join-Us{
+    height: 300px;
+}
+#Join-Us h6{
+    color: lightgray;
+}
